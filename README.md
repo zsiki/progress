@@ -1,2 +1,2 @@
 # progress
-Qgis plugin to demonstrate QrogressBar usage
+Qgis plugin to demonstrate ProgressBar usage
